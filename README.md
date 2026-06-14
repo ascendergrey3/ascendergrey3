@@ -1,10 +1,10 @@
-# Hi, I'm Rishith Rohan 👋
+# Hi, I'm Rishith Rohan
 
 CS undergrad at IIIT Delhi (2023–2027), working at the intersection of AI/ML, cybersecurity, and robotics.
 
 ---
 
-## 🔬 Research
+## Research
 
 **Usable Security Group · IIIT Delhi** *(BTP under Prof. Arun Balaji Buduru)*
 Benchmarking Small Language Models (Qwen2.5, Phi-3.5-mini, LLaMA-3.2, DeepSeek-Coder) for vulnerability detection and patch generation using QLoRA fine-tuning and knowledge distillation.
@@ -14,7 +14,7 @@ Hybrid centralised-planner + per-drone agent architecture in ROS 2 Humble and Ga
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages** · Python · C · C++ · Java · Bash
 
@@ -26,7 +26,7 @@ Hybrid centralised-planner + per-drone agent architecture in ROS 2 Humble and Ga
 
 ---
 
-## 📌 Projects
+## Projects
 
 | Project | Description |
 |---|---|
