@@ -37,7 +37,7 @@ Hybrid centralised-planner + per-drone agent architecture in ROS 2 Humble and Ga
 
 ---
 
-## 📫 Connect
+##  Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishith-rohan-anamalla/)
 
