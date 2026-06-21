@@ -16,7 +16,7 @@ Hybrid centralised-planner + per-drone agent architecture in ROS 2 Humble and Ga
 
 ## Tech Stack
 
-**Languages** · Python · C · C++ · Java · Bash
+**Languages** · Python · C · C++ · Java 
 
 **AI/ML** · HuggingFace Transformers · PEFT · QLoRA · PyTorch · scikit-learn
 
